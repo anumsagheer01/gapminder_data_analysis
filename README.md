@@ -1,5 +1,7 @@
 ## Regression Analysis of Gapminder Data
 
+## To view- https://anumsagheer01.github.io/gapminder_data_analysis/
+
 ### Project Overview
 
 This project explores global life expectancy trends over a 50-year period using Gapminder data. It examines how economic factors, like GDP, relate to life expectancy and uses regression models to identify patterns, relationships, and outliers in the data. The analysis involves visualization, statistical modeling, and hypothesis testing.
